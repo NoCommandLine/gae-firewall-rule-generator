@@ -1,5 +1,5 @@
 # gae-firewall-rule-generator
-Block bots, automated scripts and spam visits to your Google App Engine App with our automated gcloud firewall rule command generator.
+Block bots, automated scripts and spam visits to your Google App Engine App with our automated 'gcloud firewall rule command' generator.
 
 Our App takes care of the manual work of parsing logs, extracting IPs, and generating firewall rules. In seconds, you can have a firewall rule in place to block unwanted traffic.
 
